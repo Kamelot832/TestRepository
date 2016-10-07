@@ -1,2 +1,3 @@
-println("Привет Мир!")
-println("Привет всем!")
+println("Привет Мир!;")
+println("Привет всем!;")
+println("Hello;")
