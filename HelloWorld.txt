@@ -1,3 +1,4 @@
 println("Привет Мир!")
 println("Привет всем!")
 Hello
+println("Hello my dear friend")
